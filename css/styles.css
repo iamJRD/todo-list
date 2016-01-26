@@ -7,6 +7,11 @@ li {
   font-weight: bold;
 }
 
+.done-item {
+  text-decoration: line-through;
+  background-color: lightblue;
+}
+
 .btn {
   margin-right: 10px;
 }
